@@ -270,7 +270,6 @@ after the collector has run again to see updated numbers. This is
 read-only and never writes to your cluster.
 
 ![Index usage report dashboard](./screenshots/dashboard-report.png)
-*Placeholder — insert a screenshot of the dashboard here.*
 
 ### Debugging a specific index
 
